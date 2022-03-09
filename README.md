@@ -2,4 +2,4 @@
 Hangman Game in Go
 
 ## Steps
-Run using "go hangman.go" 
+Run using command "go run hangman.go" 
